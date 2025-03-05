@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Crypto Janux
-<h1>Crypto</h1>
 
 I am a passionate DevOps engineer with expertise in cloud technologies. My goal is to automate, streamline, and optimize development and operational processes to deliver robust and scalable solutions.
 
